@@ -31,5 +31,26 @@ print(f'파이는 {pi:10.3f}입니다.') #파이는        3.142입니다.
 #변수 
 val = 1
 
-#자료형
+#불형
 print(type(val)) 
+print(type(거짓))
+
+print(1 + 1 == 2)
+
+print(거짓 == True)
+print(거짓 == False)
+print(거짓 is False)
+
+print(bool(1)) # 1 == True
+print(bool(0)) # 0 == False
+print(bool(2)) # 1이외 값은 True라고 하지마세요```
+
+  ``` 
+  ## 3일차
+  1. 파이썬 기본
+  -흐름제어
+    -if
+    -for
+    -while
+  -구구단 프로그램
+  -함수
