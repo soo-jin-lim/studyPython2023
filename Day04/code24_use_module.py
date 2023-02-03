@@ -1,8 +1,7 @@
 # 모듈 사용
 import math as m #클래스로 안된 모듈
 import code22_person as p #우리가 만든 클래스
-import code23_car  
-import Car 
+from code23_car import Car
 
 print (m.pi)
 
@@ -16,3 +15,6 @@ print(m.pow(2,10))
 me = p.person('홍길동',155,'여성')
 print(me)
 
+
+mycar = Car('54라 9538')
+print(mycar)

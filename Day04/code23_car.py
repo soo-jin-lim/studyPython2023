@@ -6,21 +6,26 @@ class Car:
     __number = '307다 8776'
 
     def get_number(self):
-        return self.number
+        return self.__number
     
-    def __init__(sel, number='54라 9538') -> None:
+    def set_number(self, number):
+        self.__number = number
+    
+    def __init__(self, number='54라 9538') -> None:        
         print('__init__')
+        self.__number = number
         
-    def __new__(cls):
-        print('__new__')
-        return super().__new__(cls)
+    # 현재 파이썬 버전에서는 생략해줘야 정상동작    
+    # def __new__(cls):
+    #     print('__new__')
+    #     return super().__new__(cls)
 
     def __str__(self) -> str:
         return f'차번호는 {self.__number}'        
     
 yourcar = Car('88호 7645')
 print(yourcar)
-yourcar.__number 
+# yourcar.__number 
 print(yourcar)
 print('클래스 내부함수 사용')
 yourcar.__number = '54라 9999'    
