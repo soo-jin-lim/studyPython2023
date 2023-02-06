@@ -75,4 +75,5 @@ print(bool(2)) # 1이외 값은 True라고 하지마세요```
       - 상속, 다중상속
 
   2. 파이썬 응용
-      - 주소록 프로그램  
+      - 주소록 프로 
+      - ![image](https://user-images.githubusercontent.com/123914453/216915868-b2f9f97f-76b8-443c-9db9-a7b71d6db9ca.png)
