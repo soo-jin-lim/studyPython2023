@@ -97,6 +97,8 @@ print(bool(2)) # 1이외 값은 True라고 하지마세요```
   - 자료구조 추가
   - 윈폼 개발(GUI)
   - 응용학습
+  ![jupyter_folium](https://user-images.githubusercontent.com/123914453/217467283-d8dc3891-e3ec-49ab-b98d-a82cbab76911.png)
+
   
 
 # 9일차
