@@ -88,7 +88,7 @@ print(bool(2)) # 1이외 값은 True라고 하지마세요```
 
 # 8일차
 1. 파이썬 응용
-  - 라이브러리 활용법
+  - 라이브러리 활용법 [소스] https://github.com/soo-jin-lim/studyPython2023/blob/main/Day08/code44_web_crawling_tutorilal.ipynb
     - urllib.request
   - 웹 크롤링용 라이브러리
     - 기상청 오늘의 날씨 크롤링
@@ -97,7 +97,9 @@ print(bool(2)) # 1이외 값은 True라고 하지마세요```
   - 자료구조 추가
   - 윈폼 개발(GUI)
   - 응용학습
+  
   ![jupyter_folium](https://user-images.githubusercontent.com/123914453/217467283-d8dc3891-e3ec-49ab-b98d-a82cbab76911.png)
+  
 
   
 
