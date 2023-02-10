@@ -106,6 +106,17 @@ print(bool(2)) # 1이외 값은 True라고 하지마세요```
 ## 9일차
 1. 파이썬 응용
   - GUI 개발(pyQt)
-  - PyQt5
-  - 자료구조 추가
+    - PyQt 소개, 설치
+    - PyQt 기본 사용법
+    - 위젯
   
+## 10일차
+1. 파이썬 응용
+- GUI 개발
+  - PyQt 위젯 계속
+  - PyQt 다이얼로그
+
+![실행화면]()
+C:\source\studyPython2023\Day10\dialog.png
+
+
