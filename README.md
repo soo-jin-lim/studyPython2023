@@ -117,6 +117,6 @@ print(bool(2)) # 1이외 값은 True라고 하지마세요```
   - PyQt 다이얼로그
 
 ![실행화면]()
-C:\source\studyPython2023\Day10\dialog.png
+
 
 
